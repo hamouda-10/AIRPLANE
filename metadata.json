@@ -1,0 +1,6 @@
+{
+  "name": "Mostar city",
+  "description": "A cinematic scroll story for Mostar city ascending into an Emirates Airbus sky sequence and global private jet charter platform with English and Arabic Ruq'ah calligraphy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
